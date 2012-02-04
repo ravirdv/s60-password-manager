@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/password.png</file>
+        <file>icons/lock.png</file>
+        <file>items/moneyCard.svg</file>
+        <file>items/secureNote.svg</file>
+        <file>items/website.svg</file>
+        <file>icons/edit.svg</file>
+        <file>icons/incorrect-password.png</file>
+        <file>icons/ok.svg</file>
+        <file>about/gx.jpg</file>
+        <file>about/ravi.png</file>
+        <file>icons/splashScreenIcon.svg</file>
+        <file>items/moneycard-normal.png</file>
+        <file>items/notes-normal.png</file>
+        <file>items/password-normal.png</file>
+        <file>icons/key.png</file>
+        <file>icons/splashScreenIcon.png</file>
+        <file>about/appIcon.png</file>
+        <file>items/moneycard.png</file>
+        <file>items/notes.png</file>
+        <file>items/password.png</file>
+    </qresource>
+</RCC>
